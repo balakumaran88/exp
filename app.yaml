@@ -1,0 +1,5 @@
+runtime: nodejs
+env: flex
+handlers:
+- url: /static
+  static_dir: public 
